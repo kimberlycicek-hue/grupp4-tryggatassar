@@ -339,11 +339,10 @@
   flex: 1;
   min-width: 300px;
   max-width: 500px;  
-  border-radius: 8px;
+
 }
 
  
-
  .step-image img {
    width: 100%;
    height: auto;
@@ -355,8 +354,11 @@
 .frame {
  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
  border: 20px solid #fdf3d6; 
+ border-radius: 8px;
 }
 
+.noframe {
+ border-radius: 8px;
 
  /*GUIDE VID ADOPTION*/
 

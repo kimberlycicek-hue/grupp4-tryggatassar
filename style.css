@@ -352,14 +352,14 @@
    overflow: hidden;
  }
 
-.frame {
+.frame img {
  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
  border: 20px solid #fdf3d6; 
  border-radius: 8px;
  overflow: hidden;
 }
 
-.noframe {
+.noframe img {
  border-radius: 8px;
  overflow: hidden;
 }

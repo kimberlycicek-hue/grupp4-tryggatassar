@@ -354,9 +354,11 @@
    border: 20px solid #fdf3d6;
  }
 
-.step-image-noframe {
-    border: none !important;
-    box-shadow: none !important;
+.frame {
+ box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+ border-radius: 8px;
+ border: 20px solid #fdf3d6;
+   
 }
 
 
